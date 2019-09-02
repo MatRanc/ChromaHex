@@ -1,0 +1,8 @@
+Package: com.matdev.chromahex
+Name: Chroma Hex Respring Logo
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description: Animated respring logo to spice things up!
+Section: Themes
+Maintainer: MatDev
+Author: MatDev
